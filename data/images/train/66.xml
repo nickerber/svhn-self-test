@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>66.png</filename>
+	<path>C:\Users\ern\Desktop\Julia App\ML\self-labeled-data\data\images\66.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>92</width>
+		<height>42</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>9</ymin>
+			<xmax>48</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>8</ymin>
+			<xmax>58</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>
